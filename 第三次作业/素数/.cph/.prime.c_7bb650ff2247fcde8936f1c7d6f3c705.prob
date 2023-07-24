@@ -1,0 +1,1 @@
+{"name":"Local: prime","url":"/Users/apple/Documents/000-学习资料/030-编程/Code/C/素数/prime.c","tests":[{"id":1680092990181,"input":"7,15","output":"7 11 13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/apple/Documents/000-学习资料/030-编程/Code/C/素数/prime.c","group":"local","local":true}
