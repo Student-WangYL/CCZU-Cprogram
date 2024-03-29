@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/wangyuliang/Documents/000-学习资料/030-编程/Code/C/CCZU-Cprogram/第二次作业/a_aa_aa",
+      "program": "/Users/wangyuliang/Documents/000-学习资料/030-编程/Code/C/CCZU-Cprogram/第二次作业/a_aa_aa/build/Debug/outDebug"
+    }
+  ]
+}

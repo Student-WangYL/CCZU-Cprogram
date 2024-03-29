@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/wangyuliang/文件-本地/200-Code/C/CCZU-Cprogram/24作业/3*3arr"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _GetSum, symObjAddr: 0x0, symBinAddr: 0x100003C20, symSize: 0x19C }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _GetSum, symObjAddr: 0x0, symBinAddr: 0x100003C20, symSize: 0x19C }
+  - { offsetInCU: 0xBD, offset: 0xBD, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x19C, symBinAddr: 0x100003DBC, symSize: 0x1B0 }
+...

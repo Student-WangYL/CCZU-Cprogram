@@ -1,0 +1,1 @@
+{"name":"Local: wcy","url":"/Users/wangyuliang/文件-本地/200-Code/C/CCZU-Cprogram/24作业/wcy.c","tests":[{"id":1710914409412,"input":"1 2 9\n4 9 8","output":"max=9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/wangyuliang/文件-本地/200-Code/C/CCZU-Cprogram/24作业/wcy.c","group":"local","local":true}
